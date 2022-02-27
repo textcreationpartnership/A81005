@@ -1,0 +1,256 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Several letters and passages between His Excellency, the Lord General Cromwel and the governor of Edinburgh Castle, and the ministers there, since His Excellencies entrance into Edinburgh. Published by authority.</title>
+            <author>Cromwell, Oliver, 1599-1658.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81005</idno>
+            <idno type="STC">Wing C7166</idno>
+            <idno type="STC">Thomason E613_6</idno>
+            <idno type="STC">ESTC R31337</idno>
+            <idno type="EEBO-CITATION">99872289</idno>
+            <idno type="PROQUEST">99872289</idno>
+            <idno type="VID">165736</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81005)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165736)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 94:E613[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Several letters and passages between His Excellency, the Lord General Cromwel and the governor of Edinburgh Castle, and the ministers there, since His Excellencies entrance into Edinburgh. Published by authority.</title>
+                  <author>Cromwell, Oliver, 1599-1658.</author>
+               </titleStmt>
+               <extent>15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Field for Francis Tyton, at the Three Daggers near the Inner Temple- Gate,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>September 25. 1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproductions of the originals in the University of Illinois Library and in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165736:1" rendition="simple:additions"/>
+            <p>SEVERAL LETTERS AND PASSAGES Between HIS EXCELLENCY, The Lord General CROMWEL AND THE Governor of <hi>Edinburgh</hi> Caſtle, AND The MINISTERS there, Since His Excellencies Entrance into EDINBURGH.</p>
+            <p>
+               <hi>Publiſhed by Authority.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>John Field</hi> for <hi>Francis Tyton,</hi> at the Three Daggers near the Inner-Temple Gate, <hi>September</hi> 25. 1650.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:165736:2"/>
+            <pb n="3" facs="tcp:165736:2"/>
+            <head>For the Honorable, The Governor of the Caſtle of <hi>Edinburgh.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Received Command from my Lord General, to de<g ref="char:EOLhyphen"/>ſire you to let the Miniſters of <hi>Edinburgh,</hi> now in the Caſtle with you, know, That they have free liberty granted them, if they pleaſe to take the pains, to preach in their ſeveral Churches; and that my Lord hath given ſpecial Command both to Officers and Soldiers, That they ſhall not in the leaſt be moleſted.</p>
+            <closer>
+               <salute>Sir,</salute>
+I am
+<signed>your moſt humble Servant, <hi>EDW. WHALLEY.</hi>
+               </signed>
+               <dateline>
+                  <hi>Edinburgh</hi> 
+                  <date>the 9 of <hi>Septemb.</hi> 1650.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>From the Governor of <hi>Edinburgh</hi> Caſtle to Colonel <hi>Whalley;</hi> with my Lord Generals ANSWER.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Have communicated the deſire of your Letter to ſuch of the Miniſters of <hi>Edinburgh</hi> as are with me; 3 who have deſired me to return this for
+<pb n="4" facs="tcp:165736:3"/>Anſwer, That though they are ready to be ſpent in their Maſters ſervice, and to refuſe no ſuffering, ſo they may fulfil their Miniſtery with joy: Yet per<g ref="char:EOLhyphen"/>ceiving the perſecution to be perſonal, by the pra<g ref="char:EOLhyphen"/>ctice of your party upon the Miniſters of Chriſt in <hi>England</hi> and <hi>Ireland,</hi> and in the Kingdom of <hi>Scot<g ref="char:EOLhyphen"/>land</hi> ſince your unjuſt Invaſion thereof; And finding nothing expreſt in yours, whereupon to build any ſecurity for their perſons while they are there, and for their return hither, they are reſolved to reſerve themſelves for better times, and to wait upon Him who hath hidden his face for a while from the Sons of <hi>Jacob.</hi> This is all I have ſay; but that I am, Sir,</p>
+            <closer>
+               <signed>Your moſt humble Servant, <hi>W. DUNDAS.</hi>
+               </signed>
+               <dateline>
+                  <date>9 <hi>Septem.</hi> 1650.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>For the Honorable, The Governor of the Caſtle of <hi>Edinburgh.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THe kindeneſs offered to the Miniſters with you, was done with ingenuity, thinking it might have met with the like: but I am ſatisfied to tell thoſe with you, That if their Maſters ſervice (as they call it) were chiefly in their eye, Imagination of Suffering would not have cauſed ſuch a return; much leſs the practice by our Party (as they are pleaſed to ſay) upon the Miniſters of Chriſt in <hi>England,</hi> have been an Argument of perſonal perſecution: The Mi<g ref="char:EOLhyphen"/>niſters of <hi>England</hi> are ſupported, and have liberty to preach the Goſpel, though not to Rail, nor under pretence thereof
+<pb n="5" facs="tcp:165736:3"/>to over-top the Civil Power, or debaſe it as they pleaſe: No man hath been troubled in <hi>England</hi> or <hi>Ireland</hi> for preach<g ref="char:EOLhyphen"/>ing the Goſpel; nor has any Miniſter been moleſted in <hi>Scotland</hi> ſince the coming of the Army hither. The ſpeak<g ref="char:EOLhyphen"/>ing Truth becomes the Miniſters of Chriſt: when Miniſters pretend to a glorious Reformation, and ſay the foundation thereof in getting to themſelves worldly Power, and can make worldly mixtures to accompliſh the ſame, ſuch as their late Agreement with their King, and hopes by him to carry on their Deſign, may know, That the Sion promiſed and hoped for, will not be built with ſuch untempered morter. As for the unjuſt Invaſion they mention, time was when an Army of <hi>Scotland</hi> came into <hi>England,</hi> not called by the Su<g ref="char:EOLhyphen"/>preme Authority: we have ſaid in our Papers with what hearts, and upon what accompt we came, and the Lord hath heard us, though you would not, upon as Solemn an Appeal as any experience can parallel. And although they ſeem to comfort themſelves with being the Sons of <hi>Jacob,</hi> from whom (they ſay) God hath hid his face for a time; yet its no wonder, when the Lord hath lifed up his hand ſo emi<g ref="char:EOLhyphen"/>nently againſt a Family, as he hath done ſo often againſt this, and men will not ſee his hand, if the Lord hide his face from ſuch, putting them to ſhame both for it, and their hatred at his people, as it is this day. When they purely truſt to the Sword of the Spirit, which is the Word of God, which is <hi>powerful to bring down ſtrong holds, and every imagination that exalts it ſelf,</hi> which alone is able to ſquare and fit the ſtones for the <hi>New Jeruſalem;</hi> Then, and not before, and by that means, and no other, ſhall <hi>Jeruſalem</hi> (which is to be the praiſe of the whole Earth) the City of the Lord be built, the Sion of the Holy One of Iſrael. I have nothing to ſay to you, but that I am, Sir,</p>
+            <closer>
+               <signed>Your humble Servant, <hi>O. CROMWEL.</hi>
+               </signed>
+               <date>
+                  <hi>Septemb.</hi> 9. 1650.</date>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="6" facs="tcp:165736:4"/>
+            <head>A Letter from the Governor of <hi>Edinburgh</hi> Caſtle, for the Right Honorable the Lord <hi>Cromwel,</hi> Commander in Chief of the Engliſh Army.</head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>YOurs I have communicate to theſe with me whom it concerned, who deſire me to return this Anſwer, That their ingenuity in proſecuting the ends of the Covenant according to their vocation and place, and adhering to their firſt Principles, is well known; and one of their greateſt regrets is, that they have not met with the like: when Miniſters of the Goſpel have been impriſoned, deprived of their Benefices, ſequeſtrate, forced to flee from their dwellings, and bitterly threatned for their faithful declaring the will of GOD againſt the godleſs and wicked proceedings of men, That it cannot be ac<g ref="char:EOLhyphen"/>counted an imaginary fear of ſuffering in ſuch as are reſolved to follow the like freedom and faithfulneſs in diſcharge of their Maſters Meſſage; that it ſavors not of ingenuity to promiſe liberty of preaching the Goſpel, and to limit the Preachers thereof, that they muſt not ſpeak againſt the <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ns and enormi<g ref="char:EOLhyphen"/>ties of Civil Powers, ſince their Commiſſion car<g ref="char:EOLhyphen"/>ryeth them to ſpeak the Word of the Lord unto, and to reprove the fins of perſons of all ranks, from the higheſt to the loweſt: That to impoſe the name of Railing upon ſuch faithful Freedom, was the old pra<g ref="char:EOLhyphen"/>ctice of Malignants againſt the Miniſters of the Go<g ref="char:EOLhyphen"/>ſpel,
+<pb n="7" facs="tcp:165736:4"/>who laid open to people the wickedneſs of their ways, that they ſhould not be enſnared thereby: That their conſciences bear them record, and all their hearers do know, that they meddle not with Civil Affairs further then to hold forth the rule of the Word, by which the ſtraightneſs and crooked<g ref="char:EOLhyphen"/>neſs of mens actions are made evident. But they are ſorry that they have juſt cauſe to regret, that men of meer Civil place and employment, ſhould uſurp the calling and employment of the Miniſtery, to the ſcandal of the Reformed Kirks, and particularly in <hi>Scotland,</hi> contrary to the Government and Diſci<g ref="char:EOLhyphen"/>pline therein eſtabliſhed, to the maintenance where<g ref="char:EOLhyphen"/>of you are bound by the Solemn League and Cove<g ref="char:EOLhyphen"/>nant. Thus far they have thought fit to vindicate their return to the offer in Colonel <hi>Whalleys</hi> latter offer: The other part of yours which concerns the Publique as well as them, they conceive that all hath been anſwered ſufficiently in the publique Papers of the State and Kirk: onely to that of the ſucceſs upon your ſolemn Appeal, they ſay again what was ſaid to it before, That they have not ſo learned Chriſt, as to hang the equity of their Cauſe upon e<g ref="char:EOLhyphen"/>vents, but deſire to have their hearts eſtabliſhed in the love of the Truth in all the tribulations that be<g ref="char:EOLhyphen"/>fal them. I onely do adde that I am</p>
+            <closer>
+               <salute>My Lord,</salute>
+               <signed>
+                  <hi>Your moſt humble Servant,</hi> W: DUNDAS.</signed>
+               <dateline>
+                  <date>
+                     <hi>Septembr.</hi> 9. 1650.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="8" facs="tcp:165736:5"/>
+            <head>For the Governor of <hi>Edinburgh</hi> Caſtle.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>BEcauſe I am at ſome reaſonable good leiſure, I can<g ref="char:EOLhyphen"/>not let ſuch a groſs miſtake and inconſequential reaſon<g ref="char:EOLhyphen"/>ings paſs without ſome notice taken of them. And firſt, their ingenuity in relation to the Covenant, for which they com<g ref="char:EOLhyphen"/>mend themſelves, doth no more juſtifie their want of inge<g ref="char:EOLhyphen"/>nuity in anſwer to Colonel <hi>Whalleys</hi> Chriſtian offer, concern<g ref="char:EOLhyphen"/>ing which my Letter charged them with guiltineſs, deficiency, then their bearing witneſs to themſelves of their adhering to their firſt Principles and ingenuity in proſecuting the ends of the Covenant, juſtifies them ſo to have done, meerly becauſe they ſay ſo. They muſt give more leave hencefor<g ref="char:EOLhyphen"/>wards, for Chriſt will have it ſo, will they nill they, and they muſt have patience to have the truth of their doctrines and ſayings tryed by the ſure touchſtone of the word of God; and if there be a liberty and duty of tryal, there is a liberty of judgement alſo, for them that may and ought to try; which if ſo, they muſt give others leave to ſay and think, that they can Appeal to equal Judges, who have been the trueſt fulfillers of the moſt real and equitable ends of the Covenant: But if theſe Gentlemen which do aſſume to themſelves to be the infallible Expoſitors of the Covenant, as they do too much to their Auditories of the Scriptures, counting a different fence and judgement from theirs, breach of Covenant and Hereſie, no marvel they judge of others ſo authoritatively and ſeverely; but we have not ſo learned Chriſt. We look at Miniſters as helpers of, not Lords over the faith of Gods people. I appeal to their conſciences, whether any trying their Doctrines and diſſenting, ſhall not incur the cenſure of Sectary; and what is this but to deny Chriſtians their Liber<g ref="char:EOLhyphen"/>ty, and aſſume the infallible Chair? What doth he, whom we would not be likened unto, do more then this? In the ſe<g ref="char:EOLhyphen"/>cond place it is affirmed, That the Miniſters of the Goſpel
+<pb n="9" facs="tcp:165736:5"/>have been impriſoned, deprived of their Benefices, Seque<g ref="char:EOLhyphen"/>ſtred, forced to flye from their dwellings, and bitterly threat<g ref="char:EOLhyphen"/>ned for their faithful declaring the will of God, &amp;c. And that they have been limited that they might not ſpeak againſt the ſins and enormities of the evil Powers: That to impoſe the name of railing upon ſuch faithful freedom, was the old practice of the Malignants againſt the Preachers of the Go<g ref="char:EOLhyphen"/>ſpel, &amp;c.</p>
+            <p>If the civil Authority of that part of it, which continued faithful to their Truſt, true to the ends of the Covenant, did in anſwer to their conſciences turn out a Tyrant in a way which the Chriſtians in after times will mention with honor, and all Tyrants in the world look at with fear, and many thouſands of Saints in <hi>England</hi> rejoyce to think of it, and have received from the hand of God, a liberty from the fear of like uſurpati<g ref="char:EOLhyphen"/>ons, and have caſt off him, who trod in his Fathers ſteps, do<g ref="char:EOLunhyphen"/>ing miſchief as far as he was able, whom you have received like fire into your boſoms, of which God will, I truſt, in time make you ſenſible; if Miniſters railing at the civil Power, cal<g ref="char:EOLhyphen"/>ling them Murtherers and the like, for doing this, have been dealt with as you mention; will this be found a perſonal per<g ref="char:EOLhyphen"/>ſecution? Or is ſin ſo, becauſe they ſay ſo? They that acted this great buſineſs, having given a reaſon of their faith in this action, and ſome here are ready further to do it againſt all gainſayers. But it will be found that theſe reprovers do not only make themſelves the Judges and Determiners of ſin, that ſo they may reprove but they alſo took liberty to ſtir up the people to Blood and Arms, and would have brought a War upon <hi>England,</hi> as hath been upon <hi>Scotland,</hi> had not God pre<g ref="char:EOLhyphen"/>vented it: and if ſuch ſeverity as hath been expreſſed toward them, be worthy the name of perſonal perſecution, let all un<g ref="char:EOLhyphen"/>intereſted men judge, whether the calling of this practice rail<g ref="char:EOLhyphen"/>ing, be to be paralleld with the Malignants imputation upon the Miniſters, for ſpeaking againſt the Popiſh Innovations in the Prelates times, and the Tyrannical and wicked practice then on foot, let your own conſciences minde you. The Ro<g ref="char:EOLhyphen"/>man
+<pb n="10" facs="tcp:165736:6"/>Emperors in Chriſts and his Apoſtles times were uſurp<g ref="char:EOLhyphen"/>ers and intruders upon the Jewiſh State, yet what footſtep have ye either of our bleſſed Saviors ſo much as willingneſs to the dividing of an Inheritance, or their medling in that kinde; This was not practiced by the Church ſince our Savi<g ref="char:EOLhyphen"/>ors time till Antichriſt, aſſuming the infallible Chair, and all that he called the Church to be under him, practiced this au<g ref="char:EOLhyphen"/>thoritatively over civil Governors.</p>
+            <p>The way to fulfil your Miniſtery with joy, to preach the Goſpel, which I wiſh ſome who take pleaſure in reproofs at adventure, do not forget too much to do.</p>
+            <p>Thirdly, you ſay you have juſt cauſe to regret, that men of civil imployments ſhould uſurp the calling and imploy<g ref="char:EOLhyphen"/>ment of the Miniſtery, to the ſcandal of the Reformed Kirks, <hi>&amp;c.</hi>
+            </p>
+            <p>Are you troubled that Chriſt is preached? Is preaching ſo incluſive in your function? Doth it ſcandalize the Reformed Kirks, and <hi>Scotland</hi> in particular? Is it againſt the Covenant? Away with the Covenant, if this be ſo, I thought the Cove<g ref="char:EOLhyphen"/>nant and theſe could have been willing that any ſhould ſpeak good of the name of Chriſt; if nor, it is no Covenant of Gods approving, nor the Kirks you mention, in ſo much the Spouſe of Chriſt. Where do you finde in the Scripture a ground to warrant ſuch an aſſertion, That preaching is included in your function? though an approbation from men hath order in it, and may do well, yet he that hath not a better warrant then that hath none at all. I hope he that aſcended up on high, may give his gifts to whom he pleaſe, and if thoſe gifts be the Seal of miſſion, be not envious though <hi>Eldad</hi> and <hi>Medad.</hi> prophe<g ref="char:EOLhyphen"/>ſie: you know who bids us covet earneſtly the beſt gifts, but chiefly that we may propheſie, which the Apoſtle explains there to be a ſpeaking to inſtruction, and edification, &amp; com<g ref="char:EOLhyphen"/>fort, which the inſtructed, edified, and comforted, can beſt tell the Enargy and effect of; if ſuch evidence be, I ſay again, take heed you envy not for your own ſakes, leſt you be guilty of a greater fault, then <hi>Moſes</hi> reproved in <hi>Joſhua,</hi> for envying
+<pb n="11" facs="tcp:165736:6"/>for his ſake; indeed you erre through the miſtake of the Scri<g ref="char:EOLhyphen"/>ptures: approbation is an act of conveniency in reſpect of or<g ref="char:EOLhyphen"/>der, not of neceſſity to give faculty to preach the Goſpel. Your pretended fear leſt error ſhould ſtep in, is like the man that would keep all the wine out of the county, leſt men ſhould be drunk. It will be found an unjuſt and unwiſe jea<g ref="char:EOLhyphen"/>louſie, to deny a man the liberty he hath by nature, upon a ſuppoſition he may abuſe it, when he doth abuſe it, judge. If a man ſpeak fooliſhly, ye ſuffer him gladly becauſe ye are wiſe, if erroniouſly, the truth more appears by your conviction; ſtop ſuch a mans mouth with ſound words that cannot be gainſaid, if blaſphemouſly, or to the diſturbance of the pub<g ref="char:EOLhyphen"/>lique peace, let the civil Magiſtrate puniſh him; if truly, re<g ref="char:EOLhyphen"/>joyce in the truth; and if you will call our ſpeakings together ſince we came into <hi>Scotland,</hi> to provoke one another to love and to good works, to faith in our Lord Jeſus Chriſt, and re<g ref="char:EOLhyphen"/>pentance from dead works, to charity and love towards you, to pray and mourn for you, and for the bit e returns to, and incredulity of our profeſſions of love to you; of the truth of which we have made our ſolemn and humble Appeals to the Lord our God, which he hath heard and born witneſs to; if theſe things be ſcandalous to the Kirk and againſt the Cove<g ref="char:EOLhyphen"/>nant, becauſe done by men of civil callings, we rejoyce in them, notwithſtanding what you ſay.</p>
+            <p>For a concluſion in anſwer to the witneſs of God upon our Solemn Appeal: You ſay, you have not ſo learned Chriſt to hang the equity of your cauſe upon events. We could wiſh blindeneſs hath not been upon your eyes to all thoſe marvel<g ref="char:EOLhyphen"/>lous diſpenſations which God hath wrought lately in <hi>England;</hi> But did not you ſolemnly Appeal and Pray? did not we do ſo too? and ought not you &amp; we to think with fear &amp; trembling of the hand of the great God in this mighty &amp; ſtrange appear<g ref="char:EOLhyphen"/>ance of his? but can ſlightly call it an Event; Were not both yours &amp; our expectations renewed from time to time, whileſt we waited on God to ſee which way he would manifeſt him<g ref="char:EOLhyphen"/>ſelf upon our Appeals? And ſhal we after all theſe our Prayers,
+<pb n="12" facs="tcp:165736:7"/>Faſtings, Tears, Expectations, and ſolemn Appeals, call theſe bare Events? The Lord pity you, ſurely we fear, becauſe it hath been a merciful and gracious deliverance to us: I beſeech you in the bowels of Chriſt, ſearch after the minde of the Lord in it towards you, and we ſhall help you by our prayers, that you may finde it out; (for yet, if we know our hearts at all) our bowels do in Chriſt Jeſus earn after the godly in <hi>Scotland:</hi> We know there are ſtumbling blocks which hin<g ref="char:EOLhyphen"/>der you; The perſonal prejudices you have taken up againſt us and our ways, wherein we cannot but think ſome occa<g ref="char:EOLhyphen"/>ſion has been given, and for which we mourn; the appre<g ref="char:EOLhyphen"/>henſion you have, That we have hindred the glorious Refor<g ref="char:EOLhyphen"/>mation you think you were upon: I am perſwaded theſe and ſuch like binde you up from an underſtanding and yielding to the minde of God, in this great day of his power and vi<g ref="char:EOLhyphen"/>ſitation; and, if I be rightly informed, the late Blow you received is attributed to prophane Councels and Conduct, and mixtures in your Army, and ſuch like; the natural man will not finde out the cauſe; look up to the Lord, that he may tell it you: which that he would do, ſhall be the fervent prayers of</p>
+            <closer>
+               <signed>Your loving Friend and Servant, <hi>O.CROMVVEL.</hi>
+               </signed>
+               <dateline>
+                  <hi>Edinburgh,</hi> 
+                  <date>
+                     <hi>Sept.</hi> 12. 1650.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>For the Governor of <hi>Edinburgh</hi> Caſtle.</head>
+            <p>THeſe Queries are ſent, not to reproach you, but in the love of Chriſt laying them before you; We being per<g ref="char:EOLhyphen"/>ſwaded in the Lord, That there is a Truth in them, which we earneſtly deſire may not be laid aſide unſought after, by any prejudice either againſt the things themſelves, or the unwor<g ref="char:EOLhyphen"/>thineſs or weakneſs of the perſon that offers them. If you turn at the Lords reproofs, he will pour out his Spirit upon
+<pb n="13" facs="tcp:165736:7"/>you, and you ſhall underſtand his Words, and they will guide you to a bleſſed Reformation indeed, even to one ac<g ref="char:EOLhyphen"/>cording to the Word, and ſuch as the people of God wait for; wherein you will finde us and all Saints ready to re<g ref="char:EOLhyphen"/>joyce, and ſerve you to the utmoſt in our places and Callings.</p>
+            <div type="queries">
+               <head>QUAERES.</head>
+               <p n="1">
+                  <hi>I.</hi> VVHether the Lords Controverſie be not both againſt the Miniſters in <hi>Scotland</hi> and <hi>England,</hi> for wreſting, ſtraining and improving the Covenant againſt the godly and Saints in <hi>England,</hi> of the ſame Faith with them in every Fundamental, even to a bitter perſecution, and ſo making that which in the main intention was Spiritual, to ſerve poli<g ref="char:EOLhyphen"/>ticks and carnal ends, even in that part especially which was Spiritual, and did look to the glory of God, and the comfort of his people.</p>
+               <p n="2">
+                  <hi>II.</hi> Whether the Lords Controverſie may not be for your and the Miniſters in <hi>England</hi> ſullenneſs at, and darkning, and not beholding the glory of Gods wonderful Dispenſations in this Series of his Providences in <hi>England, Ireland</hi> and <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> both now and formerly, through envy at Inſtruments, and becauſe the things did not work, forth your platform, and the great God did not come down to your mindes and thoughts.</p>
+               <p n="3">
+                  <hi>III.</hi> Whether you carrying on a Reformation, ſo much by you spoken of, have not probably been ſubject to ſome miſtakes in your own judgements about ſome parts of the ſame, laying ſo much ſtreſs thereupon, as hath been a temptation to you, even to break the law of Love towards your Brethren, and thoſe Chriſt hath regenerated, even to the reviling and perſe<g ref="char:EOLhyphen"/>cuting of them, and to ſtir up wicked men to do the ſame, for your Forms ſake, or but ſome parts of it.</p>
+               <p n="4">
+                  <hi>IV.</hi> Whether if your Reformation be ſo perfect and ſo Spi<g ref="char:EOLhyphen"/>ritual,
+<pb n="14" facs="tcp:165736:8"/>be indeed the Kingdom of the Lord Jeſus, it will need ſuch carnal policies, ſuch fleſhly mixtures, ſuch unſincere act<g ref="char:EOLhyphen"/>ings, as to pretend to cry down all Malignants, and yet receive and ſet up the Head of them, and ſo act for the Kingdom of Chriſt in his Name, and upon advantage thereof, and to pub<g ref="char:EOLhyphen"/>liſh ſo falſe a Paper, ſo full of ſpecious pretences to piety, as the fruit and effect of his repentance, to deceive the mindes of all the godly in <hi>England, Ireland</hi> and <hi>Scotland;</hi> you in your own conſciences knowing with what regret he did it, and with what importunities and threats he was brought to do it, and how much to this very day he is againſt it, and whether this be not a high provocation of the Lord, in ſo groſly diſſembling with him and His people?</p>
+            </div>
+         </div>
+         <div type="letter">
+            <head>For the Right Honorable, The Command<g ref="char:EOLhyphen"/>er in Chief of the Engliſh Army.</head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>YOur Papers I have communicate to theſe with me whom they concerned, who have deſired me to return this Anſwer; The Contents of theſe Pa<g ref="char:EOLhyphen"/>pers do concern the publique Differences betwixt you and theſe of the three Kingdoms, who have faithfully adhered to the Solemn League and Co<g ref="char:EOLhyphen"/>venant, and are awed by the Oath of God from ac<g ref="char:EOLhyphen"/>ceſſion to the guiltines of clear and evident breaches of Covenant, and have been ſo often and fully an<g ref="char:EOLhyphen"/>ſwered in the publique Papers of this Kirk and King<g ref="char:EOLhyphen"/>dom; In the Reſolutions of the Aſſembly of Di<g ref="char:EOLhyphen"/>vines in <hi>England,</hi> and in the publiſhed Writings of the ſoundeſt Divines there, yea and of all the Re<g ref="char:EOLhyphen"/>formed Kirks, That they conceive it needleſs (though
+<pb n="15" facs="tcp:165736:8"/>a matter of no great difficulty) to give a particular Anſwer; eſpecially ſince the late General Aſſembly have authorized their Commiſſioners to take into conſideration matters of publique concernment to this Kirk, unto whom (if you pleaſe) you may here<g ref="char:EOLhyphen"/>after direct Papers of that kinde: In the mean time they reſt fully perſwaded in their mindes, That the event of a Battel (though ordered indeed by a juſt and wiſe Providence) is no infallible proof of the Equity or Iniquity of a Cauſe, ſeeing there is one Event to the Righteous and to the Wicked, to him that ſweareth and to him that feareth an Oath, as it is clear in the cauſe of <hi>Iſrael</hi> againſt <hi>Benjamin</hi> about the men of <hi>Gibeah.</hi> I am,</p>
+            <closer>
+               <salute>My Lord,</salute>
+               <signed>Your moſt humble Servant, <hi>W. DUNDAS.</hi>
+               </signed>
+               <dateline>
+                  <date>
+                     <hi>Septemb.</hi> 12. 1650.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
